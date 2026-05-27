@@ -53,6 +53,11 @@ export default function Testimonials() {
       name: "Neeraj Sharma",
       image: "/neeraj.png",
     },
+    {
+      quote:"I consulted for sciatica and cervical pain. The diagnosis was accurate and exercises were effective. Noticed improvement within a few sessions-overall a very good experience.I would highly recommend this physiotherapist for anyone dealing with pain issues.",
+      name: "vibhuti goswami",
+      image: "/vibhuti-goswami.png",
+    },
     
   ];
 
